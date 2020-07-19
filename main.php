@@ -1,5 +1,4 @@
 <h5>Domain Resolver</h5>
-<div class="content">
 <form action="" method="post">
 	<br><br>
        <input class="textbox" type="text" name="domain">
